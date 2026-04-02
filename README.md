@@ -1,4 +1,4 @@
-# CodeAlpha_EDA
+# EDA
 Overview
 
 This project focuses on performing Exploratory Data Analysis (EDA) using SQL. The aim is to analyze structured data directly within a database to uncover patterns, trends, and key insights without relying on external tools.
